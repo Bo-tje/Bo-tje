@@ -27,11 +27,11 @@ I'm an aspiring designer currently studying **Creative Media and Game Technologi
 <p align="left">
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=3174AD" />
+  <img src= https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 💡 My Motivation
@@ -53,7 +53,3 @@ I'm an aspiring designer currently studying **Creative Media and Game Technologi
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bo-tje/Bo-tje/main/footer-grid.svg" alt="Footer Grid" width="100%" />
-  <p><i>Ready to create immersive experiences? Let's chat!</i></p>
-</div>
